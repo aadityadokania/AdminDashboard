@@ -2,7 +2,7 @@
   "homepage" : "https://aadityadokania.github.io/AdminDashboard/",
   "name": "AdminDashboard",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
