@@ -1,6 +1,6 @@
 {
-  "homepage" : "https://aadityadokania.github.io/AdminDashboard/"
-  "name": "admindashboard",
+  "homepage" : "https://aadityadokania.github.io/AdminDashboard/",
+  "name": "AdminDashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
